@@ -1,5 +1,5 @@
 # Algorithms Part 1 (By Princeton University) Assignments
-A repository containing the source code for the assignments in Algorithm Part 1 on Coursera.org.
+A repository containing the source code for the assignments in Algorithm Part 1 on Coursera.org.  
 Link of the course: https://www.coursera.org/learn/algorithms-part1/
 This repository contains 5 assignments:
   - Percolation
@@ -12,7 +12,7 @@ This repository contains 5 assignments:
  ### 1. Percolation
  - Using the Union Find Algorithm to determine the proportion of metal needed in a given material so that it could become a conducter
  (let the current flow through).
- Link to the assignment specification: https://coursera.cs.princeton.edu/algs4/assignments/percolation/specification.php 
+ - Link to the assignment specification: https://coursera.cs.princeton.edu/algs4/assignments/percolation/specification.php 
  ### 2. Deque
  - Implementing the generic deque (double-ended queue) abstract data type. A double-ended queue or deque (pronounced “deck”) is a
  generalization of a stack and a queue that supports adding and removing items from either the front or the back of the data structure.
